@@ -1,0 +1,45 @@
+================================================================
+RESEARCH REPORT: Battery Co — Initiation
+Exported: 2026-06-10T12:00:00Z    Analyst: Test Analyst
+================================================================
+
+THESIS
+----------------------------------------------------------------
+Bull case rests on risk control [1] and margins [2].
+Risk again: [1].
+
+================================================================
+EVIDENCE BRANCHES
+================================================================
+
+BRANCH: Filings
+----------------------------------------------------------------
+  NODE: Risk factors  [fake]
+  Trust: test research
+  Execution: 00000000-0000-0000-0000-00000000000a | run 2026-06-01 | milestone
+  Inputs: topic=risk, fetched=2026-06-01
+  Finding:
+    Key risk: lithium prices.
+    Second line.
+
+  NODE: MD&A  [fake]
+  Trust: test research
+  Execution: 00000000-0000-0000-0000-00000000000b | run 2026-06-01 | draft
+  Inputs: topic=mdna, fetched=2026-06-01
+  Finding:
+    Margins improving.
+
+BRANCH: Market
+----------------------------------------------------------------
+  NODE: Competitors  [fake]
+  Trust: test research
+  Execution: (none)
+  Finding:
+    (no findings yet)
+
+================================================================
+REFERENCES
+----------------------------------------------------------------
+[1] Risk factors — execution 00000000-0000-0000-0000-00000000000a, run 2026-06-01
+[2] MD&A — execution 00000000-0000-0000-0000-00000000000b, run 2026-06-01
+================================================================
